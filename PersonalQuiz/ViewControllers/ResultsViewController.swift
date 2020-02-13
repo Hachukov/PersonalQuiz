@@ -34,7 +34,7 @@ class ResultsViewController: UIViewController {
         }
         for i in arr {
             resultDescriptionLabel.text = i.difinition
-            resultLabel.text = "\(i.self)" 
+            resultLabel.text = "\(i.self)"
 
             
         }
